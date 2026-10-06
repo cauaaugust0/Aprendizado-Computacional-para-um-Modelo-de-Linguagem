@@ -1,4 +1,4 @@
-### Aprendizado-Computacional-Investigacao-Experimental-para-um-Modelo-de-Linguagem
+### Aprendizado-Computacional-para-um-Modelo-de-Linguagem
 
 --- 
 
